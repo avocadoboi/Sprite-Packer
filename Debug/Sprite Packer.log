@@ -1,0 +1,9 @@
+﻿  Packer.cpp
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\hola\onedrive\projekt\c++\sprite packer\packer.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  Sprite Packer.vcxproj -> C:\Users\HOLA\OneDrive\projekt\c++\Sprite Packer\Debug\Sprite Packer.exe
+  Sprite Packer.vcxproj -> C:\Users\HOLA\OneDrive\projekt\c++\Sprite Packer\Debug\Sprite Packer.pdb (Partial PDB)
